@@ -1,5 +1,8 @@
 # developer-nav
 A responsive multifunction navigation system for personal blog, portfolio, and especially for writers &amp; developer's sites. This navigation comes with multiple UI features and UX effects that friendly interact with users.  Written in HTML, CSS and jQuery.
+
+## Mobile View
+[Multifunction Off canvas Menu](developer-nav/preview/Screenshot_2018-09-01-16-07-04.png)
 <h2> Main Features </h2>
 <ol>
 <li>+20 built in skins, attractive plain colors &amp; gradients colors. </li>
