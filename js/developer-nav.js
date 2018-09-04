@@ -2,7 +2,7 @@
  *   Author: Asif Mughal
  *   URL: www.codehim.com
  *   License: MIT
- *   Copyright (c) 2018 CodehimBlog
+ *   Copyright (c) 2018 - Asif Mughal
  */
 
 /*   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
