@@ -1,6 +1,8 @@
 # developer-nav
 A responsive multifunction navigation system for personal blog, portfolio, and especially for writers &amp; developer's sites. This navigation comes with multiple UI features and UX effects that friendly interact with users.  Written in HTML, CSS and jQuery.
 <img src="preview/dev nav.PNG" alt="multifunction drop down menu"/>
+<br />
+<a href="https://www.jqueryscript.net/demo/Responsive-Dropdown-Menu-Developer-Nav" title="view this navigation on jqueryscript.net"> Live Demo </a>
 <h2> Main Features </h2>
 <ol>
 <li>+20 built in skins, attractive plain colors &amp; gradients colors. </li>
